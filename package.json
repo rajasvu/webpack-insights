@@ -1,0 +1,29 @@
+{
+  "name": "webpack-insights",
+  "version": "1.0.0",
+  "description": "Package with samples to demonstrate webpack functionality",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajasvu/webpack-insights.git"
+  },
+  "keywords": [
+    "Webpack",
+    "NPM",
+    "Packaging",
+    "Javascript"
+  ],
+  "author": "Kumar Raja Gattamaneni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajasvu/webpack-insights/issues"
+  },
+  "homepage": "https://github.com/rajasvu/webpack-insights#readme",
+  "devDependencies": {
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0"
+  }
+}
